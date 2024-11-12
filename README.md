@@ -4,4 +4,4 @@ The CenterWin is a small and very simple utility that resizes and centers the fo
 
 This is useful when you use different monitor configurations, but the programs always position themselves for the old configuration.
 
-You can assign a hotkey in PowerToys Run to start it.
+You can assign a hotkey in PowerToys Keybord Manager to start it.
